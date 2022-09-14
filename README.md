@@ -43,9 +43,25 @@ To classify skin cancer using skin lesions images. To achieve higher accuracy an
 
 ![](https://github.com/Fahadmehran/Melanoma_Detection/blob/main/Model%20Architecture.JPG)
 
-## Model Evaluation
+## Conclusion
 
-![]Model Evaluation
+- The class rebalance helped in reducing overfititng of the data and thus the loss is reduced But it has reduced the Acurracy to very low
+- Initially we tried without the ImageDataGenerator which created data to over fit at high ratio, Then we introduced dropout and ImageDataGenerator which reduced the over fit
+- At last we tried Batch Normalization and Augumentation which really helped in carry forward
+
+## Model Evaluation after Batch normalisation and Augumentation
+
+![](https://github.com/Fahadmehran/Melanoma_Detection/blob/main/Model%20Evaluation.png)
+
+## Acknowledgements
+
+- I would like to thank our Subject Matter Expert:
+    - Gopalakrishnan Srinivasaraghavan
+    - Gunnvant Singh Saini
+    - Dr Avishek Pal
+- I thank all the faculty and team members for helping us complete the assignment and solved the doubts.
+
+
 
 
 
