@@ -41,5 +41,11 @@ To classify skin cancer using skin lesions images. To achieve higher accuracy an
 
 ## Model Architecture
 
+![](https://github.com/Fahadmehran/Melanoma_Detection/blob/main/Model%20Architecture.JPG)
+
+## Model Evaluation
+
+![]Model Evaluation
+
 
 
